@@ -3,3 +3,5 @@ This is the first line in this text file.
 Added a second line in this text file.
 
 Added a third line in this text file.
+
+Added a fourth line in this text file.
